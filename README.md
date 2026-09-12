@@ -40,6 +40,9 @@ An educational machine-learning project that classifies user-provided text into 
 
 \- Streamlit
 
+## Application Screenshot
+
+![AI Emotional Risk Detection](screenshot.png)
 
 
 \## How It Works
